@@ -1,7 +1,6 @@
-#!/bin/bash
 # Jacob Hammargren
 # picoCTF Automation
-# level: Some Assembly Required
+# level: Where Are The Robots
 
 import requests
 import re
