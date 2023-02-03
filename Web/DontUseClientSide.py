@@ -1,7 +1,6 @@
-#!/bin/bash
 # Jacob Hammargren
 # picoCTF Automation
-# level: Cookies
+# level: Don't Use Client Side
 
 import requests
 import re
