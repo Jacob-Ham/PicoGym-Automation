@@ -1,4 +1,3 @@
-#!/bin/bash
 # Jacob Hammargren
 # picoCTF Automation
 # level: Some Assembly Required
