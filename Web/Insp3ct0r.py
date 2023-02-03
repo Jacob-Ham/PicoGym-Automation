@@ -1,7 +1,6 @@
-#!/bin/bash
 # Jacob Hammargren
 # picoCTF Automation
-# level: Cookies
+# level: Insp3ct0r
 
 import requests
 import re
